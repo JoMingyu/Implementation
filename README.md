@@ -5,3 +5,4 @@
 - [ ] tf-idf
 - [ ] levenshtein distance
 - [ ] Timsort
+- [ ] Huffman Coding
